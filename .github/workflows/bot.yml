@@ -1,0 +1,40 @@
+name: Bot trading papier
+
+on:
+  schedule:
+    # toutes les 5 min, lun-ven, 13:00-21:55 UTC (couvre la seance US heure d'ete comme d'hiver)
+    - cron: "*/5 13-21 * * 1-5"
+  workflow_dispatch: {}
+
+concurrency:
+  group: bot
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Lancer le bot
+        env:
+          ALPACA_API_KEY: ${{ secrets.ALPACA_API_KEY }}
+          ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
+        run: python bot.py
+      - name: Enregistrer le journal
+        if: always()
+        run: |
+          git config user.name "bot-trading"
+          git config user.email "bot@users.noreply.github.com"
+          for f in journal.csv bot.log state.json; do [ -f "$f" ] && git add "$f"; done
+          if ! git diff --cached --quiet; then
+            git commit -m "journal $(date -u +%F' '%H:%M)"
+            git pull --rebase -q || true
+            git push
+          fi

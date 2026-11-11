@@ -1,0 +1,4 @@
+date;heure_paris;action;symbole;qte;prix;stop;objectif;note
+2026-11-11;14:54;DEBUT;;;;;;Simulation lancee - capital 10000 EUR (11500 USD)
+2026-11-11;17:38;ACHAT;AAPL;16;353.88;351.36;356.40;cassure du range 349.33-353.40, passage manuel (rattrapage)
+2026-11-11;18:01;ACHAT;NFLX;73;63.78;63.25;64.31;cassure du range 62.76-63.75 (bot)

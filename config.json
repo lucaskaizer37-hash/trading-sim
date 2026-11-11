@@ -2,7 +2,7 @@
   "note": "Simulation papier : 10 000 EUR convertis a 1,15 USD/EUR. Le bot n'utilise que capital_usd. Version GitHub Actions : cloture avancee a 15:40 ET a cause des retards possibles.",
   "eurusd": 1.15,
   "capital_usd": 11500,
-  "alpaca_start_equity": 100000,
+  "alpaca_start_equity": 11500,
   "cash_buffer_pct": 10,
   "max_position_usd": 5750,
   "max_loss_per_trade_usd": 115,

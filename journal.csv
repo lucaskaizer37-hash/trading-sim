@@ -2,3 +2,7 @@ date;heure_paris;action;symbole;qte;prix;stop;objectif;note
 2026-11-11;14:54;DEBUT;;;;;;Simulation lancee - capital 10000 EUR (11500 USD)
 2026-11-11;17:38;ACHAT;AAPL;16;353.88;351.36;356.40;cassure du range 349.33-353.40, passage manuel (rattrapage)
 2026-11-11;18:01;ACHAT;NFLX;73;63.78;63.25;64.31;cassure du range 62.76-63.75 (bot)
+2026-11-11;20:39;VENTE;NFLX;73;64.31;;;objectif P&L=32.85 USD = 28.57 EUR
+2026-11-11;21:51;VENTE;AAPL;16;355.42;;;cloture manuelle, bot Windows en panne P&L=21.13 USD = 18.37 EUR
+2026-11-11;21:52;BILAN;;;;;;jour 46.94 EUR | cumul 46.94 EUR | capital simule 10046.94 EUR | 2 trades, 2 gagnants
+2026-11-11;22:15;INFO;;;;;;passage sur le compte papier Simulation 10k EUR, 11554 USD

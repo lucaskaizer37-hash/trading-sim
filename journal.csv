@@ -9,3 +9,7 @@ date;heure_paris;action;symbole;qte;prix;stop;objectif;note
 2026-11-12;17:10;ACHAT;AMD;5;588.79;566.72;610.87;cassure du range 555.05-578.40 (bot)
 2026-11-12;17:10;ACHAT;PLTR;33;172.07;169.92;174.22;cassure du range 168.34-171.50 (bot)
 2026-11-12;17:15;ACHAT;AVGO;4;365.69;360.24;371.14;cassure du range 354.88-365.60 (bot)
+2026-11-12;21:45;VENTE;AVGO;4;362.17;;;cloture P&L=-14.34 USD (-12.47 EUR)
+2026-11-12;21:45;VENTE;PLTR;33;171.33;;;cloture P&L=-31.48 USD (-27.37 EUR)
+2026-11-12;21:45;VENTE;AMD;5;581.93;;;cloture P&L=-26.48 USD (-23.03 EUR)
+2026-11-12;21:45;BILAN;;;;;;jour -62.87 EUR | cumul -15.91 EUR | capital simule 9984.09 EUR

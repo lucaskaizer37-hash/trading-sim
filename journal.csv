@@ -8,3 +8,4 @@ date;heure_paris;action;symbole;qte;prix;stop;objectif;note
 2026-11-11;22:15;INFO;;;;;;passage sur le compte papier Simulation 10k EUR, 11554 USD
 2026-11-12;17:10;ACHAT;AMD;5;588.79;566.72;610.87;cassure du range 555.05-578.40 (bot)
 2026-11-12;17:10;ACHAT;PLTR;33;172.07;169.92;174.22;cassure du range 168.34-171.50 (bot)
+2026-11-12;17:15;ACHAT;AVGO;4;365.69;360.24;371.14;cassure du range 354.88-365.60 (bot)

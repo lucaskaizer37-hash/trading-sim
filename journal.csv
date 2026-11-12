@@ -6,3 +6,5 @@ date;heure_paris;action;symbole;qte;prix;stop;objectif;note
 2026-11-11;21:51;VENTE;AAPL;16;355.42;;;cloture manuelle, bot Windows en panne P&L=21.13 USD = 18.37 EUR
 2026-11-11;21:52;BILAN;;;;;;jour 46.94 EUR | cumul 46.94 EUR | capital simule 10046.94 EUR | 2 trades, 2 gagnants
 2026-11-11;22:15;INFO;;;;;;passage sur le compte papier Simulation 10k EUR, 11554 USD
+2026-11-12;17:10;ACHAT;AMD;5;588.79;566.72;610.87;cassure du range 555.05-578.40 (bot)
+2026-11-12;17:10;ACHAT;PLTR;33;172.07;169.92;174.22;cassure du range 168.34-171.50 (bot)

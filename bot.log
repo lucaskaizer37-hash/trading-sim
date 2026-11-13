@@ -7,3 +7,5 @@
 2026-11-13 14:50:33 ACHAT MSFT x10 ~522.88 stop 517.34 obj 528.42 -> pending_new
 2026-11-13 14:55:26 META : taille reduite a 8 (capital simule restant)
 2026-11-13 14:55:26 ACHAT META x8 ~635.99 stop 630.18 obj 641.79 -> pending_new
+2026-11-13 19:20:33 MSTR : taille reduite a 45 (capital simule restant)
+2026-11-13 19:20:33 ACHAT MSTR x45 ~112.71 stop 111.21 obj 114.21 -> pending_new

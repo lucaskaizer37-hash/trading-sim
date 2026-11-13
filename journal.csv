@@ -15,3 +15,4 @@ date;heure_paris;action;symbole;qte;prix;stop;objectif;note
 2026-11-12;21:45;BILAN;;;;;;jour -62.87 EUR | cumul -15.91 EUR | capital simule 9984.09 EUR
 2026-11-13;15:50;ACHAT;MSFT;10;522.88;517.34;528.42;cassure du range 513.90-520.78 (bot)
 2026-11-13;15:55;ACHAT;META;8;635.99;630.18;641.79;cassure du range 625.44-634.92 (bot)
+2026-11-13;20:20;ACHAT;MSTR;45;112.71;111.21;114.21;cassure du range 109.93-112.49 (bot)

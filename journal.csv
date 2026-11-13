@@ -13,3 +13,4 @@ date;heure_paris;action;symbole;qte;prix;stop;objectif;note
 2026-11-12;21:45;VENTE;PLTR;33;171.33;;;cloture P&L=-31.48 USD (-27.37 EUR)
 2026-11-12;21:45;VENTE;AMD;5;581.93;;;cloture P&L=-26.48 USD (-23.03 EUR)
 2026-11-12;21:45;BILAN;;;;;;jour -62.87 EUR | cumul -15.91 EUR | capital simule 9984.09 EUR
+2026-11-13;15:50;ACHAT;MSFT;10;522.88;517.34;528.42;cassure du range 513.90-520.78 (bot)

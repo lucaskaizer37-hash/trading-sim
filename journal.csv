@@ -21,3 +21,4 @@ date;heure_paris;action;symbole;qte;prix;stop;objectif;note
 2026-11-13;21:45;VENTE;META;8;630.12;;;stop P&L=-47.03 USD (-40.90 EUR)
 2026-11-13;21:45;BILAN;;;;;;jour -62.71 EUR | cumul -78.82 EUR | capital simule 9921.18 EUR
 2026-11-16;15:50;ACHAT;UBER;81;70.20;69.78;70.63;cassure du range 69.50-70.07 (bot)
+2026-11-16;15:55;ACHAT;COIN;38;121.86;120.25;123.46;cassure du range 118.92-121.59 (bot)

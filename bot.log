@@ -12,3 +12,5 @@
 2026-11-13 20:40:33 Cloture : 2 position(s) fermee(s)
 2026-11-13 20:45:33 Bilan ecrit : jour -72.12 USD, cumul -90.64 USD
 2026-11-16 14:50:32 ACHAT UBER x81 ~70.20 stop 69.78 obj 70.63 -> pending_new
+2026-11-16 14:55:26 COIN : taille reduite a 38 (capital simule restant)
+2026-11-16 14:55:26 ACHAT COIN x38 ~121.86 stop 120.25 obj 123.46 -> pending_new

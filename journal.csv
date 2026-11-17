@@ -29,3 +29,6 @@ date;heure_paris;action;symbole;qte;prix;stop;objectif;note
 2026-11-16;21:45;BILAN;;;;;;jour -45.92 EUR | cumul -125.03 EUR | capital simule 9874.97 EUR
 2026-11-17;16:01;ACHAT;AMZN;22;259.23;258.20;260.26;cassure du range 257.43-258.97 (bot)
 2026-11-17;16:05;ACHAT;CRWV;91;50.63;50.00;51.26;cassure du range 49.46-50.54 (bot)
+2026-11-17;21:45;VENTE;CRWV;91;50.02;;;stop P&L=-36.30 USD (-31.57 EUR)
+2026-11-17;21:45;VENTE;AMZN;22;258.19;;;stop P&L=-16.13 USD (-14.03 EUR)
+2026-11-17;21:45;BILAN;;;;;;jour -45.59 EUR | cumul -170.82 EUR | capital simule 9829.18 EUR

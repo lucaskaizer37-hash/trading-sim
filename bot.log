@@ -18,3 +18,5 @@
 2026-11-16 15:01:03 ACHAT SMCI x2 ~25.75 stop 25.38 obj 26.12 -> pending_new
 2026-11-16 20:45:33 Bilan ecrit : jour -52.81 USD, cumul -143.78 USD
 2026-11-17 15:01:04 ACHAT AMZN x22 ~259.23 stop 258.20 obj 260.26 -> pending_new
+2026-11-17 15:05:27 CRWV : taille reduite a 91 (capital simule restant)
+2026-11-17 15:05:27 ACHAT CRWV x91 ~50.63 stop 50.00 obj 51.26 -> pending_new
